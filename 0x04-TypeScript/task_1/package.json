@@ -1,0 +1,31 @@
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "description": "\"Frontend\", \"Web design\"",
+  "main": "index.js",
+  "dependencies": {
+    "babel-jest": "^29.5.0",
+    "eslint": "^8.43.0",
+    "jest": "^29.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node 6-main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Elvino03/alx-frontend-javascript.git"
+  },
+  "keywords": [
+    "\"Frontend\"",
+    "\"Web",
+    "Design\""
+  ],
+  "author": "Elvis Odinigwe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elvino03/alx-frontend-javascript/issues"
+  },
+  "homepage": "https://github.com/Elvino03/alx-frontend-javascript#readme"
+}
